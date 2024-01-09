@@ -723,7 +723,7 @@ F,M,21.0,1.0,11.0,1342.0,22.0,0.0,False,False,True,CH,Biel,Biel,82.5,0.0,0.0,0.0
 F,M,21.0,1.0,16.0,17517.0,1169.0,1.0,True,False,False,CH,La Côte-aux-Fées,Morges,10.6,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,0.0,1.0,2015-04-25T17:09:16Z,1429981756.0,0.0,1
 F,M,21.0,0.5,2.0,1503.0,51.0,0.0,False,True,False,CH,Fribourg,Fribourg,50.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,True,False,False,False,False,False,0.0,1.0,2015-04-14T21:24:15Z,1429046655.0,0.0,0
 F,M,22.0,0.19,3.0,3110.0,74.0,1.0,False,False,False,IT,Luino,Poppino,173.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,False,False,False,True,False,False,0.0,1.0,2015-04-05T22:44:28Z,1428273868.0,0.0,1
-F,M,23.0,0.5,4.0,385.0,2.0,7.0,False,False,False,IT,,Collegno,175.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,False,False,False,True,False,False,0.0,1.0,2015-04-25T15:17:34Z,1429975054.0,0.0,1
+F,M,23.0,0.5,4.0,385.0,2.0,7.0,False,False,False,IT,None,Collegno,175.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,False,False,False,True,False,False,0.0,1.0,2015-04-25T15:17:34Z,1429975054.0,0.0,1
 F,M,19.0,0.38,1.0,22.0,1.0,0.0,True,True,False,CH,Genève,Genève,50.9,0.0,0.0,0.0,1.0,0.0,1.0,1.0,2.0,True,False,False,False,False,False,0.0,1.0,2015-05-03T09:43:07Z,1430646187.0,0.0,0
 F,M,21.0,0.77,8.0,6036.0,130.0,1.0,True,True,False,CH,Liestal,Liedertswil,127.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,False,False,True,False,False,False,1.0,1.0,2015-04-26T10:07:37Z,1430042857.0,0.0,1
 F,M,21.0,0.27,2.0,11817.0,513.0,0.0,False,True,False,FR,Nice,Nice,317.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,True,False,False,False,False,False,0.0,1.0,2015-04-06T14:53:45Z,1428332025.0,0.0,0
