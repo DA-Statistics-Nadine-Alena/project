@@ -8,6 +8,7 @@ These slides should serve as a brief visual addition to your written report and 
 
 **For submission, convert these slides to a .pdf document, and submit the PDF of the slides on Moodle.**
 
+https://docs.google.com/presentation/d/1RDkKu-dRntrmntOeKy5r5qrUSQOCMOCTkXZ14huHIM8/edit#slide=id.p
 
 Here is a *suggested* outline as you think through the slides; you **do not** have to use this exact format for the 6 slides.
 
